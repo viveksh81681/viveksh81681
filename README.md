@@ -1,16 +1,22 @@
-### Hi there 👋
+Shivam Sharma
+Hi 👋, I'm Shivam
+A passionate full stack [MERN] web developer...
+ About Me
 
-<!--
-**viveksh81681/viveksh81681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious and efficient web developer, proficient in MERN stack. Can work under pressure and take on challenging projects as it helps in learning new skills. Looking forward to working in an innovative and reputed company.
 
-Here are some ideas to get you started:
+I am a Passoinate Cricketer and having interest in Helping Animals.p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Check my projects and portfolio Shivam Sharma
+
+🌱 I’m currently learning Data Structures and Algorithms.
+
+ I’m looking to collaborate on OpenSource Projects
+
+📫 How to reach me shivampandit635@gmail.com
+
+Connect with me:
+avdhesh-pal/ @avdheshpal2201
+
+Languages and Tools:
+babel css3 express git html5 javascript mongodb nodejs postman react redux tailwind webpack
