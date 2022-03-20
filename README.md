@@ -71,5 +71,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=malayakumar">
 </a>
-<a href="https://github.com/malayakumar"><img src="https://img.shields.io/github/followers/malayakumar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/viveksh81681"><img src="https://img.shields.io/github/followers/viveksh81681?label=Followers&style=social" alt="GitHub Badge"></a>
 
