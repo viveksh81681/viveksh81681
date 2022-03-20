@@ -44,7 +44,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/malayakumar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viveksh81681&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/viveksh81681/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viveksh81681&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>  
   
   <br/>
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/malayakumar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viveksh81681&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/viveksh81681/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viveksh81681&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -62,8 +62,8 @@
 <p align="left">
 
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-gmail-social-media-justicon-flat-justicon.png" height="40"/></a> -->
-<a href = "https://www.linkedin.com/in/malaya-kumar-biswal-793493156/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/game___slayer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/vivek-sharma-a9046720b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/smrth_sharma_01/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
