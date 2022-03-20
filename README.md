@@ -35,7 +35,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/malayakumar/github-readme-streak-stats">
+    <a href="https://github.com/viveksh81681/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksh81681&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -44,7 +44,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/malayakumar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malayakumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/malayakumar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viveksh81681&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>  
   
   <br/>
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/malayakumar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=malayakumar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/malayakumar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viveksh81681&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
